@@ -299,6 +299,7 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+Spring 2021: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
 Spring 2020: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
 Monsoon 2018: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**, IIIT Hyderabad. Course instructor: [Prof. Naresh Manwani](https://sites.google.com/site/nareshmanwani/home)
 Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and Machine Learning**. Course instructor [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/)
