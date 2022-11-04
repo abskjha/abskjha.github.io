@@ -20,8 +20,9 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 <!--My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 -->
 
-Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
-
+Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar.
+<!--Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
+-->
 I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
 
 ***
@@ -30,6 +31,9 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
+**\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
+**\[Aug 2022\]** | I will be attending [ELLIS Doctoral symposium 2022](https://ellisalicante.org/eds2022/) in Alicante, Spain.
 **\[Aug 2021\]** | **Accepted:** Our paper "Glimpse-Attend-and-Explore: Self-Attention for Active Visual Exploration" in ICCV 2021.
 **\[Jan 2021\]** | Presented a poster on " Transferability of Self-Supervised Representations" in [Mediterranean Machine Learning  summer school 2021](https://www.m2lschool.org/).
 **\[Sep 2020\]** | Will be attending [Mediterranean Machine Learning  summer school 2021](https://www.m2lschool.org/) in January 2021.
@@ -299,16 +303,17 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+Spring 2022: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
 Spring 2021: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
 Spring 2020: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
 Monsoon 2018: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**, IIIT Hyderabad. Course instructor: [Prof. Naresh Manwani](https://sites.google.com/site/nareshmanwani/home)
 Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and Machine Learning**. Course instructor [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/)
 
 
-
 ***
 
 ## Services
+- *Reviewer*: CVPR 2022, CVPR 2021, ICCV 2021, WACV 2021, WACV 2023.
 
 - *Reviewer*: 7th [National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics](http://ncvpripg.kletech.ac.in/) (**NCVPRIPG 2019**), December 22-24, 2019, Hublie.
 
