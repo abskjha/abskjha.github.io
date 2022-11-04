@@ -65,24 +65,133 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 &nbsp;
 
 
-<!---
-1. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018. \[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\] \[[Poster](https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing)\]
 
 
-2. Sahil Chelaramani, Abhishek Jha and Anoop Namboodiri, ”Cross-modal style transfer”, 25th IEEE International Conference on Image Processing (ICIP) 2018. \[[Paper](https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing)\]
 
 
-3. Abhishek  Jha,  Vinay  Namboodiri  and  C.V.  Jawahar,  ”Word  Spotting  in  Silent  Lip  Videos”,  IEEE  Winter
-Conference on Applications of Computer Vision (WACV) 2018. \[[Paper](https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf)\] \[[Poster](https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing)\] \[[Project page](https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting)\]
 
 
-4. Yashaswi Verma, Abhishek Jha, C.V. Jawahar, ”Cross-specificity:  modelling data semantics for cross-modal
-matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018. \[[Link](https://link.springer.com/article/10.1007/s13735-017-0138-7)\]
--->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
+
+
+
+
+
+<tbody>
+	<tr>
+		<td width="35%"><img src="/images/barlow_vqa_website_image.jpg" alt="Barlow_VQA" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
+			<p>
+				<a href="#">Barlow constrained Visual Question Answering</a> <br>
+				<strong>Abhishek Jha</strong>, <a href="https://badripatro.github.io/">Badri Patro</a>, <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html"> Luc Van Gool</a>, <a href="https://homes.esat.kuleuven.be/~tuytelaa/">Tinne Tuytelaars</a><br>
+			<span style="color:#9A2617;">Winter conference on Computer vision (WACV) 2023</span>
+				<br>
+				<a href="https://arxiv.org/abs/2203.03727">[Arxiv]</a>
+				<br><br>
+<div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
+Visual question answering is a vision-and-language multimodal task, that aims at predicting answers given samples from the question and image modalities. Most recent methods focus on learning a good joint embedding space of images and questions, either by improving the interaction between these two modalities, or by making it a more discriminant space. However, how informative this joint space is, has not been well explored. In this paper, we propose a novel regularization for VQA models, Constrained Optimization using Barlow's theory (COB), that improves the information content of the joint space by minimizing the redundancy. It reduces the correlation between the learned feature components and thereby disentangles semantic concepts. Our model also aligns the joint space with the answer embedding space, where we consider the answer and image+question as two different `views' of what in essence is the same semantic information. We propose a constrained optimization policy to balance the categorical and redundancy minimization forces. When built on the state-of-the-art GGE model, the resulting model improves VQA accuracy by 1.4% and 4% on the VQA-CP v2 and VQA v2 datasets respectively. The model also exhibits better interpretability.
+</div>
+			</p>
+		</td>
+		
+	</tr>		
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody>
+	<tr>
+		<td width="35%"><img src="/images/simglim_website_image.jpg" alt="SimGlim_simplified_glimpse_active_visual_exploration" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
+			<p>
+				<a href="#">SimGlim: Simplified glimpse based active visual exploration</a> <br>
+				<strong>Abhishek Jha</strong>, Soroush Seifi, <a href="https://homes.esat.kuleuven.be/~tuytelaa/">Tinne Tuytelaars</a> <br>
+			<span style="color:#9A2617;">Winter conference on Computer vision (WACV) 2023</span>
+				<!-- <br> -->
+				<!-- <a href="https://arxiv.org/abs/2108.11717">[Arxiv]</a> -->
+				<br><br>
+<div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
+An agent with a limited field of view needs to sample the most informative local observations of an environment in order to model the global context. Current works train this selection strategy by defining a complex architecture built upon features learned through convolutional encoders. In this paper, we first discuss why vision transformers are better suited than CNNs for such an agent. Next, we propose a simple transformer based active visual sampling model, called ''SimGlim'', which utilises transformer's inherent self-attention architecture to sequentially predict the best next location based on the current observable environment. We show the efficacy of our proposed method on the task of image reconstruction in the partial observable setting and compare our model against existing state-of-the-art active visual reconstruction methods. Finally, we provide ablations for the parameters of our design choice to understand their importance in the overall architecture.
+
+</div>
+			</p>
+		</td>
+		
+	</tr>		
+</tbody>
+
+
+
+
+
+
+
+
+
+
+<tbody>
+	<tr>
+		<td width="35%"><img src="/images/glatex_website_image.jpg" alt="Glimpse_Attend_and_Explore" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
+			<p>
+				<a href="#">Glimpse attend and explore: Self-Attention for Active Visual Exploration</a> <br>
+				Soroush Seifi, <strong>Abhishek Jha</strong>, <a href="https://homes.esat.kuleuven.be/~tuytelaa/">Tinne Tuytelaars</a> <br>
+			<span style="color:#9A2617;">International Conference on Computer Vision (ICCV) 2021</span>
+				<br>
+				<a href="https://arxiv.org/abs/2108.11717">[Arxiv]</a>
+				<br><br>
+<div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
+Active visual exploration aims to assist an agent with a limited field of view to understand its environment based on partial observations made by choosing the best viewing directions in the scene. Recent methods have tried to address this problem either by using reinforcement learning, which is difficult to train, or by uncertainty maps, which are task-specific and can only be implemented for dense prediction tasks. In this paper, we propose the Glimpse-Attend-and-Explore model which: (a) employs self-attention to guide the visual exploration instead of task-specific uncertainty maps; (b) can be used for both dense and sparse prediction tasks; and (c) uses a contrastive stream to further improve the representations learned. Unlike previous works, we show the application of our model on multiple tasks like reconstruction, segmentation and classification. Our model provides encouraging results while being less dependent on dataset bias in driving the exploration. We further perform an ablation study to investigate the features and attention learned by our model. Finally, we show that our self-attention module learns to attend different regions of the scene by minimizing the loss on the downstream task.
+
+</div>
+			</p>
+		</td>
+		
+	</tr>		
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
