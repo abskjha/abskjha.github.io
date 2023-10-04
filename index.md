@@ -7,12 +7,12 @@ title: Abhishek Jha
 
 ## Bio
 
-I am a doctoral student at KU Leuven, Belgium. I am advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at PSI division, Departement Elektrotechniek (ESAT). My PhD research is focused on multimodal representation learning in the direction of robust and interpretable representations.
+I am an ELLIS doctoral student at KU Leuven, Belgium. I am advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at PSI division, Departement Elektrotechniek (ESAT), and co-supervised by [Dr. Yuki Asano](https://yukimasano.github.io/). My PhD research is focused on representation learning in the direction of robust and interpretable representations.
 
 Prior to joining the doctoral school I have spent a brief time visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/), working with [Dr. Partha Pratim Talukdar](talukdar.net), [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) and [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG).
 
 
- I completed my Masters (MS) at [IIIT Hyderabad](https://iiit.ac.in/), where I was jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My masters research was focused on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. 
+ I completed my Masters (MS) at [IIIT Hyderabad](https://iiit.ac.in/), where I was jointly advised by  [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). My masters research was focused on solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. 
 
 <!--I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). 
 -->
@@ -23,7 +23,7 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar.
 <!--Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
 -->
-I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
+<!-- I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics. -->
 
 ***
 
@@ -31,6 +31,8 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[Oct 2023\]** | **Academic exchange:** I will be visiting University of Amsterdam, Netherlands, for ELLIS exchange program, starting from October 2023.
+**\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
 **\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
 **\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
 **\[Aug 2022\]** | I will be attending [ELLIS Doctoral symposium 2022](https://ellisalicante.org/eds2022/) in Alicante, Spain.
