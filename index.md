@@ -31,7 +31,7 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[Oct 2023\]** | **Academic exchange:** I will be visiting [VIS lab](https://ivi.fnwi.uva.nl/vislab/), at [University of Amsterdam](https://www.uva.nl/en) for ELLIS PhD exchange, starting Oct'23.
+
 **\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
 **\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
 **\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
