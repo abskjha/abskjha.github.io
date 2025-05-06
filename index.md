@@ -23,10 +23,10 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 <!--My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 -->
 
-Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar.
+<!-- Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. -->
 <!--Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
 -->
-I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
+<!-- I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics. -->
 
 ***
 
@@ -34,7 +34,13 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[May 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: *"Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels"*.
+**\[May 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: [Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E20/3E200810.htm).
+
+**\[Sep 2024\]** | **Accepted:** "Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions" accepted at **ECCV 2024 Workshop on Out-of-distribution generalization in computer vision (OOD-CV)**.
+
+**\[Feb 2024\]** | **Preprint:** [The Common Stability Mechanism behind most Self-Supervised Learning Approaches](https://arxiv.org/abs/2402.14957)
+
+
 **\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
 **\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
 **\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.

@@ -7,6 +7,6 @@ layout: default
 <hr />
 
 Abhishek Jha  
-Doctoral Student, VISICS,
+Post-doctoral researcher, PSI-VISICS,
 [Departement Elektrotechniek](https://www.esat.kuleuven.be/)  
 [Katholieke Universiteit Leuven](https://www.kuleuven.be/)
