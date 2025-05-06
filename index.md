@@ -80,8 +80,7 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
-
-
+<!-- 
 <tbody>
 	<tr>
 		<td width="35%"><img src="/images/analysis_spatial_augmentation_ssl.png" alt="Spatial_augment_SSL" width="250" style="border-style: none"></td>
@@ -99,7 +98,7 @@ In this paper, we present an empirical study of typical spatial augmentation tec
 		</td>
 		
 	</tr>		
-</tbody>
+</tbody> -->
 
 
 
