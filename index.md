@@ -77,12 +77,11 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 **\[Aug 2021\]** | **Accepted:** Our paper "Glimpse-Attend-and-Explore: Self-Attention for Active Visual Exploration" in ICCV 2021.
 **\[Jan 2021\]** | Presented a poster on "Transferability of Self-Supervised Representations" at [M2L School](https://www.m2lschool.org/).
 **\[Sep 2020\]** | Will be attending [M2L School 2021](https://www.m2lschool.org/) in January 2021.
-***
+
 
 <details>
 <summary>Show older updates</summary>
 
-***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
