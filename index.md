@@ -80,7 +80,7 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
-<!-- 
+
 <tbody>
 	<tr>
 		<td width="35%"><img src="/images/analysis_spatial_augmentation_ssl.png" alt="Spatial_augment_SSL" width="250" style="border-style: none"></td>
@@ -88,7 +88,7 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 			<p>
 				<a href="#">Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions</a> <br>
 				<strong>Abhishek Jha</strong>, <a href="https://homes.esat.kuleuven.be/~tuytelaa/">Tinne Tuytelaars</a><br>
-			<span style="color:#9A2617;">ECCV Workshop 2024, OOD-CV/span>
+			<span style="color:#9A2617;">ECCV Workshop 2024, OOD-CV</span>
 				<br>
 				<a href="https://arxiv.org/abs/2409.18228">[Arxiv]</a>
 				<br><br>
@@ -98,7 +98,7 @@ In this paper, we present an empirical study of typical spatial augmentation tec
 		</td>
 		
 	</tr>		
-</tbody> -->
+</tbody>
 
 
 
