@@ -65,63 +65,45 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 ## Updates
 
+### Recent Highlights
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
 **\[May 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: [Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E20/3E200810.htm).
-**\[Sep 2024\]** | **Accepted:** "Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions" accepted at **ECCV 2024 Workshop on Out-of-distribution generalization in computer vision (OOD-CV)**.
+**\[Sep 2024\]** | **Accepted:** "Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions" accepted at **ECCV 2024 Workshop on OOD-CV**.
 **\[Feb 2024\]** | **Preprint:** [The Common Stability Mechanism behind most Self-Supervised Learning Approaches](https://arxiv.org/abs/2402.14957)
-**\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
-**\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
-**\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
-**\[Aug 2022\]** | I will be attending [ELLIS Doctoral symposium 2022](https://ellisalicante.org/eds2022/) in Alicante, Spain.
-**\[Aug 2021\]** | **Accepted:** Our paper "Glimpse-Attend-and-Explore: Self-Attention for Active Visual Exploration" in ICCV 2021.
-**\[Jan 2021\]** | Presented a poster on "Transferability of Self-Supervised Representations" at [M2L School](https://www.m2lschool.org/).
-**\[Sep 2020\]** | Will be attending [M2L School 2021](https://www.m2lschool.org/) in January 2021.
+**\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy.
+**\[Oct 2022\]** | **Accepted:** "SimGlim" in WACV 2023.
+**\[Sep 2022\]** | **Accepted:** [Barlow VQA](https://arxiv.org/abs/2203.03727) in WACV 2023.
+**\[Aug 2022\]** | Attending [ELLIS Doctoral Symposium 2022](https://ellisalicante.org/eds2022/), Alicante.
+**\[Aug 2021\]** | **Accepted:** "Glimpse-Attend-and-Explore" in ICCV 2021.
+**\[Jan 2021\]** | Poster at [M2L School 2021](https://www.m2lschool.org/).
+**\[Sep 2020\]** | Attending [M2L School 2021](https://www.m2lschool.org/).
 
+### Full Update History
 
-
+<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px; font-size:14px">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[Aug 2020\]** | Will be attending [AI Summer School 2020 (online), AI Singapore](https://aisummerschool2020.aisingapore.org/).
-**\[Nov 2019\]** | Joining KU Leuven, as a PhD student, at PSI ESAT.
-**\[Jul 2019\]** | **Accepted:** Our paper "Towards Automatic Face-to-Face Translation" accepted in [ACM Multimedia 2019](https://www.acmmm.org/2019/).
-**\[May 2019\]** | Vikram presented our work ["Cross-Language Speech Dependent Lip-Synchronization"](https://drive.google.com/file/d/1a88OiddZDcfrE1yh8UORnMXLWe_YOcHY/view?usp=sharing) at [ICASSP 2019](https://2019.ieeeicassp.org/), Brighton, UK.
-**\[Apr 2019\]** | Presented my work on "Audio-Visual Speech Recognition and Synthesis" at [MPI-Informatics](https://www.mpi-inf.mpg.de/home/), Saarbrucken.
-**\[Apr 2019\]** | Successfully defended my MS thesis. [Thesis Link](http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.ab492d305f4ce6f0.416268697368656b5f6a68615f4d535f5468657369735f66696e616c5f64726166742832292e706466.pdf)
-**\[Feb 2019\]** | **Accepted:** "Cross-Language Speech Dependent Lip-Synchronization" accepted at ICASSP 2019.
-**\[Feb 2019\]** | Visiting student at **IISc Bangalore**.
-**\[Jan 2019\]** | Submitted my MS thesis at IIIT Hyderabad.
-**\[Dec 2018\]** | Paper "Spotting Words in Real World Videos" accepted in Journal of MVA, Springer.
+**\[Aug 2020\]** | Attending [AI Summer School 2020 (online), AI Singapore](https://aisummerschool2020.aisingapore.org/).
+**\[Nov 2019\]** | Joined KU Leuven, as PhD student at PSI ESAT.
+**\[Jul 2019\]** | **Accepted:** "Face-to-Face Translation" in [ACM Multimedia 2019](https://www.acmmm.org/2019/).
+**\[May 2019\]** | Presented "Cross-Language Lip Sync" at [ICASSP 2019](https://2019.ieeeicassp.org/).
+**\[Apr 2019\]** | Talk at [MPI-Informatics](https://www.mpi-inf.mpg.de/home/).
+**\[Apr 2019\]** | Defended MS Thesis. [Thesis Link](http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.ab492d305f4ce6f0.416268697368656b5f6a68615f4d535f5468657369735f66696e616c5f64726166742832292e706466.pdf)
+**\[Feb 2019\]** | **Accepted:** Lip-Sync paper at ICASSP 2019.
+**\[Jan 2019\]** | Submitted MS thesis at IIIT Hyderabad.
+**\[Dec 2018\]** | MVA Journal paper accepted.
+**...** | *(and many more)*
 
+</div>
 
 ***
 
 ## Publications
 
 &nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
