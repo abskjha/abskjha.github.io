@@ -74,6 +74,8 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 ## Publications
 
+Full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=rdlsfogAAAAJ&hl=en).
+
 &nbsp;
 
 
