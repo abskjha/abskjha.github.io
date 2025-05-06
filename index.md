@@ -432,7 +432,7 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 ***
 
-## Services
+<!-- ## Services
 - *Reviewer*: CVPR 2022, CVPR 2021, ICCV 2021, WACV 2021, WACV 2023.
 
 - *Reviewer*: 7th [National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics](http://ncvpripg.kletech.ac.in/) (**NCVPRIPG 2019**), December 22-24, 2019, Hublie.
@@ -445,7 +445,7 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 \[[Telangana Today](https://telanganatoday.com/iiit-hyderabad-to-organise-rd-showcase-2018-from-feb-24)\] \[[APN News](https://www.apnnews.com/iiit-hyderabad-celebrates-17th-convocation/)\]
 
-- *Organizing Team*: 1st [Computer Vision Summer School](http://cvit.iiit.ac.in/summerschoolseries/) 2016, IIIT Hyderabad.
+- *Organizing Team*: 1st [Computer Vision Summer School](http://cvit.iiit.ac.in/summerschoolseries/) 2016, IIIT Hyderabad. -->
 
 <!--- - *Volunteer*: Technical Exhibition 2015, Jamshedpur, Tata Steel.
 
@@ -453,11 +453,11 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
  -->
 
 
-## Other Activity
+<!-- ## Other Activity
 
 - **[2016 - Present]**: Admin,  CVIT Lab, HPC cluster of  (aka Cosmos).
 
-- **[2017 - Present]**: Student Admin, IIIT Hyderbad HPC cluster (aka ADA).
+- **[2017 - Present]**: Student Admin, IIIT Hyderbad HPC cluster (aka ADA). -->
 
 <!--- - **[2012 - 2013]**: Secretary, IEEE-Student branch, IIT(ISM) Dhanbad.
 
