@@ -79,8 +79,6 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 **\[Sep 2020\]** | Will be attending [M2L School 2021](https://www.m2lschool.org/) in January 2021.
 
 
-<details>
-<summary>Show older updates</summary>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
@@ -95,9 +93,7 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 **\[Feb 2019\]** | Visiting student at **IISc Bangalore**.
 **\[Jan 2019\]** | Submitted my MS thesis at IIIT Hyderabad.
 **\[Dec 2018\]** | Paper "Spotting Words in Real World Videos" accepted in Journal of MVA, Springer.
-...
 
-</details>
 
 ***
 
