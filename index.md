@@ -41,6 +41,9 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[May 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: [Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E20/3E200810.htm).
+**\[Sep 2024\]** | **Accepted:** "Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions" accepted at **ECCV 2024 Workshop on Out-of-distribution generalization in computer vision (OOD-CV)**.
+**\[Feb 2024\]** | **Preprint:** [The Common Stability Mechanism behind most Self-Supervised Learning Approaches](https://arxiv.org/abs/2402.14957)
 **\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
 **\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
 **\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
