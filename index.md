@@ -78,26 +78,6 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
 
@@ -111,7 +91,7 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 				<strong>Abhishek Jha</strong>, <a href="https://homes.esat.kuleuven.be/~tuytelaa/">Tinne Tuytelaars</a><br>
 			<span style="color:#9A2617;">ECCV Workshop 2024, OOD-CV/span>
 				<br>
-				<a href="https://arxiv.org/abs/2203.03727">[Arxiv]</a>
+				<a href="https://arxiv.org/abs/2409.18228">[Arxiv]</a>
 				<br><br>
 <div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
 In this paper, we present an empirical study of typical spatial augmentation techniques used in self-supervised representation learning methods (both contrastive and non-contrastive), namely random crop and cutout. Our contributions are: (a) we dissociate random cropping into two separate augmentations, overlap and patch, and provide a detailed analysis on the effect of area of overlap and patch size to the accuracy on down stream tasks. (b) We offer an insight into why cutout augmentation does not learn good representation, as reported in earlier literature. Finally, based on these analysis, (c) we propose a distance-based margin to the invariance loss for learning scene-centric representations for the downstream task on object-centric distribution, showing that as simple as a margin proportional to the pixel distance between the two spatial views in the scence-centric images can improve the learned representation. Our study furthers the understanding of the spatial augmentations, and the effect of the domain-gap between the training augmentations and the test distribution.</div>
