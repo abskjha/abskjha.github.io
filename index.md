@@ -30,19 +30,22 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 ***
 
-<!-- ## Updates
+## Updates
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
 **\[May 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: [Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E20/3E200810.htm).
 **\[Sep 2024\]** | **Accepted:** "Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions" accepted at **ECCV 2024 Workshop on Out-of-distribution generalization in computer vision (OOD-CV)**.
 **\[Feb 2024\]** | **Preprint:** [The Common Stability Mechanism behind most Self-Supervised Learning Approaches](https://arxiv.org/abs/2402.14957)
+**\[Oct 2023\]** | I will be doing an ELLIS research visit at University of Amsterdam, Netherlands, under the supervision of Dr. [Yuki Asano](https://yukimasano.github.io/).
 **\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
 **\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
 **\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
 **\[Aug 2022\]** | I will be attending [ELLIS Doctoral symposium 2022](https://ellisalicante.org/eds2022/) in Alicante, Spain.
 **\[Aug 2021\]** | **Accepted:** Our paper "Glimpse-Attend-and-Explore: Self-Attention for Active Visual Exploration" in ICCV 2021.
 **\[Jan 2021\]** | Presented a poster on " Transferability of Self-Supervised Representations" in [Mediterranean Machine Learning  summer school 2021](https://www.m2lschool.org/).
+
+<!-- 
 **\[Sep 2020\]** | Will be attending [Mediterranean Machine Learning  summer school 2021](https://www.m2lschool.org/) in January 2021.
 **\[Aug 2020\]** | Will be attending [AI summer school 2020 (online), AI Singapore](https://aisummerschool2020.aisingapore.org/).
 **\[Nov 2019\]** | Joining KU Leuven, as a PhD student, at PSI ESAT.
@@ -63,47 +66,37 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 **\[Fab 2018\]** | Organizing annual [R&D Showcase 2018](https://iiit.ac.in/randd/), at IIIT Hyderabad.
 **\[Jan 2018\]** | Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl). -->
 
-## Updates
 
-### Recent Highlights
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
------|-----
-**\[May 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: [Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E20/3E200810.htm).
-**\[Sep 2024\]** | **Accepted:** "Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions" accepted at **ECCV 2024 Workshop on OOD-CV**.
-**\[Feb 2024\]** | **Preprint:** [The Common Stability Mechanism behind most Self-Supervised Learning Approaches](https://arxiv.org/abs/2402.14957)
-**\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy.
-**\[Oct 2022\]** | **Accepted:** "SimGlim" in WACV 2023.
-**\[Sep 2022\]** | **Accepted:** [Barlow VQA](https://arxiv.org/abs/2203.03727) in WACV 2023.
-**\[Aug 2022\]** | Attending [ELLIS Doctoral Symposium 2022](https://ellisalicante.org/eds2022/), Alicante.
-**\[Aug 2021\]** | **Accepted:** "Glimpse-Attend-and-Explore" in ICCV 2021.
-**\[Jan 2021\]** | Poster at [M2L School 2021](https://www.m2lschool.org/).
-**\[Sep 2020\]** | Attending [M2L School 2021](https://www.m2lschool.org/).
 
-### Full Update History
-
-<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px; font-size:14px">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
------|-----
-**\[Aug 2020\]** | Attending [AI Summer School 2020 (online), AI Singapore](https://aisummerschool2020.aisingapore.org/).
-**\[Nov 2019\]** | Joined KU Leuven, as PhD student at PSI ESAT.
-**\[Jul 2019\]** | **Accepted:** "Face-to-Face Translation" in [ACM Multimedia 2019](https://www.acmmm.org/2019/).
-**\[May 2019\]** | Presented "Cross-Language Lip Sync" at [ICASSP 2019](https://2019.ieeeicassp.org/).
-**\[Apr 2019\]** | Talk at [MPI-Informatics](https://www.mpi-inf.mpg.de/home/).
-**\[Apr 2019\]** | Defended MS Thesis. [Thesis Link](http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.ab492d305f4ce6f0.416268697368656b5f6a68615f4d535f5468657369735f66696e616c5f64726166742832292e706466.pdf)
-**\[Feb 2019\]** | **Accepted:** Lip-Sync paper at ICASSP 2019.
-**\[Jan 2019\]** | Submitted MS thesis at IIIT Hyderabad.
-**\[Dec 2018\]** | MVA Journal paper accepted.
-**...** | *(and many more)*
-
-</div>
 
 ***
 
 ## Publications
 
 &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
@@ -431,6 +424,7 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+Spring 2023: | Teaching assistant (TA) in the course **Image Analysis and Understanding (B-KUL-H09J2A)**, KU Leuven.
 Spring 2022: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
 Spring 2021: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
 Spring 2020: |  Teaching assistant (TA) in the course **Information System and Signal Processing (B-KUL-H09M0A)**, KU Leuven. Course instructor: [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa)
