@@ -7,7 +7,10 @@ title: Abhishek Jha
 
 ## Bio
 
-I am an ELLIS doctoral student at KU Leuven, Belgium. I am advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at PSI division, Departement Elektrotechniek (ESAT), and co-supervised by [Dr. Yuki Asano](https://yukimasano.github.io/). My PhD research is focused on representation learning in the direction of robust and interpretable representations.
+
+I recently completed my PhD as an ELLIS doctoral student at KU Leuven, Belgium, where I was advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at the PSI division, Department of Electrical Engineering (ESAT), and co-supervised by [Dr. Yuki Asano](https://yukimasano.github.io/). My doctoral research focused on representation learning, particularly in developing robust and interpretable representations.
+
+<!-- I am an ELLIS doctoral student at KU Leuven, Belgium. I am advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at PSI division, Departement Elektrotechniek (ESAT), and co-supervised by [Dr. Yuki Asano](https://yukimasano.github.io/). My PhD research is focused on representation learning in the direction of robust and interpretable representations. -->
 
 Prior to joining the doctoral school I have spent a brief time visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/), working with [Dr. Partha Pratim Talukdar](talukdar.net), [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) and [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG).
 
@@ -31,6 +34,7 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[May 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: *"Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels"*.
 **\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
 **\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
 **\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
