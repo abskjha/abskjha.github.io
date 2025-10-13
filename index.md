@@ -8,7 +8,7 @@ title: Abhishek Jha
 ## Bio
 
 
-I recently completed my PhD as an ELLIS doctoral student at KU Leuven, Belgium, where I was advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at the PSI division, Department of Electrical Engineering (ESAT), and co-supervised by [Dr. Yuki Asano](https://yukimasano.github.io/). My doctoral research focused on representation learning, particularly in developing robust and interpretable representations.
+I am a Postdoctoral researcher at NERF, VIB-KU Leuven, advised by [Dr. Pedro J. Gonçalves](https://ppjgoncalves.github.io/). I completed my PhD as an ELLIS doctoral student at KU Leuven, supervised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa), and co-supervised by [Dr. Yuki Asano](https://yukimasano.github.io/). My doctoral research focused on representation learning, particularly in developing robust and interpretable representations.
 
 <!-- I am an ELLIS doctoral student at KU Leuven, Belgium. I am advised by [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa) at PSI division, Departement Elektrotechniek (ESAT), and co-supervised by [Dr. Yuki Asano](https://yukimasano.github.io/). My PhD research is focused on representation learning in the direction of robust and interpretable representations. -->
 
@@ -34,6 +34,8 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[Oct 2025\]** | I am joining [Gonçalves lab](https://goncalveslab.sites.vib.be/en), VIB-KU Leuven, as a Postdoctoral researcher.
+**\[Jul 2025\]** | **\[Oral\]Accepted:** Our paper [HierVision](https://openreview.net/forum?id=deDq9Te0lT) accepted at Beyond Euclidean Workshop, at ICCV 2025.
 **\[Mar 2025\]** | Successfully defended my PhD thesis at KU Leuven, titled: [Understanding and Transferring the Learning Dynamics of Visual Representations in the Absence of Labels](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E20/3E200810.htm).
 **\[Sep 2024\]** | **Accepted:** "Analysis of Spatial augmentation in Self-supervised models in the purview of training and test distributions" accepted at **ECCV 2024 Workshop on Out-of-distribution generalization in computer vision (OOD-CV)**.
 **\[Feb 2024\]** | **Preprint:** [The Common Stability Mechanism behind most Self-Supervised Learning Approaches](https://arxiv.org/abs/2402.14957)
@@ -41,11 +43,10 @@ Prior to joining the doctoral school I have spent a brief time visiting [IISc Ba
 **\[Jul 2023\]** | **Attending:** [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/), Sicily, Italy. I will also be presenting a poster on Exploring the stability of Self-Supervised Representations.
 **\[Oct 2022\]** | **Accepted:** Our paper "SimGlim: Simplifying glimpse based active visual reconstruction" in WACV 2023.
 **\[Sep 2022\]** | **Accepted:** Our paper [Barlow constrained optimization for Visual Question Answering](https://arxiv.org/abs/2203.03727), in WACV 2023.
+<!-- 
 **\[Aug 2022\]** | I will be attending [ELLIS Doctoral symposium 2022](https://ellisalicante.org/eds2022/) in Alicante, Spain.
 **\[Aug 2021\]** | **Accepted:** Our paper "Glimpse-Attend-and-Explore: Self-Attention for Active Visual Exploration" in ICCV 2021.
 **\[Jan 2021\]** | Presented a poster on " Transferability of Self-Supervised Representations" in [Mediterranean Machine Learning  summer school 2021](https://www.m2lschool.org/).
-
-<!-- 
 **\[Sep 2020\]** | Will be attending [Mediterranean Machine Learning  summer school 2021](https://www.m2lschool.org/) in January 2021.
 **\[Aug 2020\]** | Will be attending [AI summer school 2020 (online), AI Singapore](https://aisummerschool2020.aisingapore.org/).
 **\[Nov 2019\]** | Joining KU Leuven, as a PhD student, at PSI ESAT.
