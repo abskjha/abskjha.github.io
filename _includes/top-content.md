@@ -7,6 +7,6 @@ layout: default
 <hr />
 
 Abhishek Jha  
-Post-doctoral researcher, PSI-VISICS,
-[Departement Elektrotechniek](https://www.esat.kuleuven.be/)  
+Post-doctoral researcher, Goncalves Lab,
+[VIB-NERF](https://vib.be/en/research-and-impact/research-centers/nerf#/)  
 [Katholieke Universiteit Leuven](https://www.kuleuven.be/)
